@@ -13,19 +13,19 @@
 <br/>
 
 ## Table of Contents
-### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
+### [Week 0](python/psets0/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 - [Indoor Voice](/python/psets0/indoor/)
 - [Playback Speed](python/psets0/playback/)
 - [Making Faces](python/psets0/faces/)
 - [Einstein](python/psets0/einstein/)
 - [Tip Calculator](python/psets0/tip/)
 
-### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
-- [Deep Thought](/Week%201/deep/)
-- [Home Federal Savings Bank](/Week%201/bank/)
-- [File Extensions](/Week%201/extensions/)
-- [Math Interpreter](/Week%201/interpreter/)
-- [Meal Time](/Week%201/meal/)
+### [Week 1](python/psets1/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
+- [Deep Thought](python/psets1/deep/)
+- [Home Federal Savings Bank](python/psets1/bank/)
+- [File Extensions](python/psets1/extensions/)
+- [Math Interpreter](python/psets1/interpreter/)
+- [Meal Time](python/psets1/meal/)
 
 ### [Week 2](/Week%202/) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
 - [camelCase](/Week%202/camel/)
