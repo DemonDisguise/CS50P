@@ -1,7 +1,7 @@
 # CS50’s Introduction to Programming with Python
-[![Certificate](./static/CS50P-A4.png)](https://certificates.cs50.io/2dc4f1c0-2c67-4c61-8b74-7b9703cffd20.png?size=a4)
+[![Certificate](./static/CS50P.pdf)](https://certificates.cs50.io/bafe1ace-ddca-4b7b-aa9f-95a4b2e27cd2.png?size=A4)
 ### These are my solutions for CS50's Introduction to Programming with Python 2022.
-### Final Project: [Instagram Scraper](https://www.youtube.com/watch?v=rD8VCxQsC5w)
+### Final Project: [Finance Manager](https://youtu.be/hQFNb8llMVA)
 <br/>
 
 ## :warning: Disclaimer:
@@ -14,11 +14,11 @@
 
 ## Table of Contents
 ### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-- [Indoor Voice](/Week%200/indoor/)
-- [Playback Speed](/Week%200/playback/)
-- [Making Faces](/Week%200/faces/)
-- [Einstein](/Week%200/einstein/)
-- [Tip Calculator](/Week%200/tip/)
+- [Indoor Voice](/python/psets0/indoor/)
+- [Playback Speed](python/psets0/playback/)
+- [Making Faces](python/psets0/faces/)
+- [Einstein](python/psets0/einstein/)
+- [Tip Calculator](python/psets0/tip/)
 
 ### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
 - [Deep Thought](/Week%201/deep/)
